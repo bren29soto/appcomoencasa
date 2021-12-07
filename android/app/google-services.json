@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830449703461",
+    "project_id": "appcomoencasa-8236f",
+    "storage_bucket": "appcomoencasa-8236f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830449703461:android:0e08f97cb644cc6f8c7dcc",
+        "android_client_info": {
+          "package_name": "com.appcomoencasaiguala.appcomoencasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830449703461-a9jtpb5857qqt0go0pdhg6f9p0v2apa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPrgvu6v3w_cTJenc54utLufbXOoDZ8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830449703461-a9jtpb5857qqt0go0pdhg6f9p0v2apa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
